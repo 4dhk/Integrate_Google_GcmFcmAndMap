@@ -1,22 +1,22 @@
 ## 配置GCM 、FCM 、 Google-Map (全程科学上网)
-### 1. API
+## 1. API
 [API管理器(配置入口)](https://console.developers.google.com/apis/library?project=hauyan-8b259)
 
 ![api](http://oanvj2lsv.bkt.clouddn.com/google/api/api1.png)
 
-### 2. GCM
+## 2. GCM
  [真のGCM文档](https://developers.google.com/cloud-messaging/gcm?hl=zh-cn)
 通过 API管理器 进入的是FCM 的配置文档，FCM 兼容GCM 同时更加简洁，并提供更多的可用服务。
 
 以下配置参照[GCM设置文档](https://developers.google.com/cloud-messaging/android/client?hl=zh-cn)和 [GoogleSamples](https://github.com/googlesamples/google-services/tree/master/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart)，找代码也是一个复杂的过程，索性一并贴出。
 
-#### 2.1 Set up a GCM Client App on Android
+### 2.1 Set up a GCM Client App on Android
 
 [GCM Clients 传送门](https://developers.google.com/cloud-messaging/android/client?hl=zh-cn)
 
 假设你的设备支持GCM，这里有一份缩减版：
 
-##### 2.1.1.在Firebase控制台注册
+### 2.1.1.在Firebase控制台注册
 对应文档(Create an API project)
 
 1.[注册项目](https://console.firebase.google.com/?hl=zh-cn)，已有相关项目点击导入.没有点击新建.
@@ -25,7 +25,7 @@
 
 3.将下载好的google-services.json添加到app/目录下
 
-#### 2.1.2 配置project
+### 2.1.2 配置project
 对应文档（Add the configuration file to your project）
 
 1.添加依赖到 project-level **build.gradle**: 
@@ -43,7 +43,7 @@ dependencies {
 ```
 注意插件是添加在顶部，不要放到Android内，依赖默认版本 9.6.1,编译不过建议改为 9.0.0
 
-####  2.1.3
+###  2.1.3
 
 对应文档(Edit Your Application's Manifest)
 
@@ -398,12 +398,12 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
-### 3 FCM
+## 3 FCM
 添加FCM SDK到项目中。
 
 获取google-services.json同GCM，**build.gradle** 配置和 **2.1.2** 略有不同
 
-####  3.1 FCM gradle配置
+###  3.1 FCM gradle配置
 
 首先，请向您的根级 build.gradle 文件添加一条规则，以包含 Google 服务插件：
 
@@ -439,7 +439,7 @@ apply plugin: 'com.google.gms.google-services'
 ```
 您还应为自己想使用的 [Firebase SDK](https://firebase.google.com/docs/android/setup) 添加依赖项
 
-####  3.2 FCM Mainifests及类设置
+###  3.2 FCM Mainifests及类设置
  下面是FCM的简洁之处  [示例](https://firebase.google.com/docs/samples/#android)
  
  贴代码：
@@ -682,20 +682,20 @@ public class MainActivity extends AppCompatActivity {
 
 ---
 
-### 4 Google Map
+## 4 Google Map
 
 [Map API](https://developers.google.com/maps/documentation/android-api/?hl=zh_CN)
 
 [配置](https://developers.google.com/maps/documentation/android-api/signup)
 
-#### 4.1 在 Google Developers Console 中创建 API 项目
+### 4.1 在 Google Developers Console 中创建 API 项目
 
 [启用API](https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID)
 
 ![APIs](http://oanvj2lsv.bkt.clouddn.com/google/api/api2.png)
 注：来自 Google 地图 Android v1 应用的现有密钥通常称为 MapView，它们无法与 v2 API 配合使用。 Google Maps Android API 采用了全新的密钥管理系统。
 
-#### 4.2 向您的应用添加 API 密钥
+### 4.2 向您的应用添加 API 密钥
 
 1.在 AndroidManifest.xml 中，通过在 </application> 结束标记前插入以下元素，将其添加为 <application> 元素的子元素：
 
@@ -708,7 +708,7 @@ public class MainActivity extends AppCompatActivity {
 
 注：如上所示，com.google.android.geo.API_KEY 是建议使用的 API 密钥元数据名称。可使用具有该名称的密钥向 Android 平台上的多个基于 Google Maps 的 API（包括 Google Maps Android API）验证身份。出于向后兼容性上的考虑，该 API 还支持 com.google.android.maps.v2.API_KEY 名称。该旧有名称只允许向 Android Maps API v2 验证身份。应用只能指定其中一个 API 密钥元数据名称。如果两个都指定，API 会抛出异常。
 
-#### 4.3 [导入](https://developers.google.com/maps/documentation/android-api/map)和特殊显示的[samples](https://github.com/googlemaps/android-samples/tree/master/ApiDemos/app/src/main/java/com/example/mapdemo)
+### 4.3 [导入](https://developers.google.com/maps/documentation/android-api/map)和特殊显示的[samples](https://github.com/googlemaps/android-samples/tree/master/ApiDemos/app/src/main/java/com/example/mapdemo)
 
 File--> new--> Google-->Google Maps Activity
 自动导入依赖和mainifest配置，这里manifests文件需要手动合并，依赖默认导入最新版本，编译不过建议 9.0.0。之后可以自己手动调整
