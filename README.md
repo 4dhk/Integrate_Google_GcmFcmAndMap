@@ -94,7 +94,7 @@ dependencies {
 
 </manifest>
 ```
-注意：<your-package-name> 这里要设置为gradle中的applicationId.
+注意：< your-package-name > 这里要设置为gradle中的applicationId.
 
 2.自定义service类及Activiy开启服务
 
