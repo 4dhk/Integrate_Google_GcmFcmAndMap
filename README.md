@@ -2,7 +2,7 @@
 ### 1. API
 [API管理器(配置入口)](https://console.developers.google.com/apis/library?project=hauyan-8b259)
 
-![api](http://oanvj2lsv.bkt.clouddn.com/google/api/api.png)
+![api](http://oanvj2lsv.bkt.clouddn.com/google/api/api1.png)
 
 ### 2. GCM
  [真のGCM文档](https://developers.google.com/cloud-messaging/gcm?hl=zh-cn)
