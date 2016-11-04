@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_ae5111cbaa9af5d221151996203786ec2b75d664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_fc557fc5a0ed19abbeacd411ac63a1ee63eea17a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_57c15c35a6d48c2010bcf7e24b85f546dac19fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_212ad7d91cfc4bff2cb264f97233d683cce1ee25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_c5d9bb010101a8e174ac92a4ff17618d5115e8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_06114422b77a5b7bf690b33eace2a04c1716b16a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_0ca696936ef99f02ae3d5c82fb8118f05b33b371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_ca4e17f2ba8e1733c6bf33f2d6b5e59505e3aed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_304ef22b4b014976e1e488d79059e1670760bbe2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_eaa13f9d5e14e88f87e0b1acb8140e0ab8362bae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_6baf34d1b0c1f6417b259cf8ae8cff7e658157f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_8f1ab3308ed9eaa4ca262f97603c4e2804471b05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_6068691683e227eaa152524513d0ff73f9908c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b9efc7ba8e33b70a199258ebb17a860b14dd1b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d4307eabb4755c471cc279dccea7adb01bd4eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_67cb21332b42cf52b8be05e9008903bd563ea722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_e95e9e4036d42466f770f347c71b053d74b04809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e057b87ac9030f84177e4ee02d36c0ca5703e3ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_8bba23e2d2ddac5e8562146d677034620e02b0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_2aa8ada8c454a25f99c7dfbfa81571a9790f5c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_e5eebd8792178c9b237c84c01d4639ef5cbfe4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_def870f0402b94635def04219ad9eefc654a83ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_a123fa3a141766d5c5c0f047f300ea6ce4e8b682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_83ea7edd3448d84700a8cc697ce342566668161e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_0ef6753da10bd77b050b031ad9ead0fb73ebac4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c590a0eb20a339acdf0cee7fbaecc6114d79f1e3">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_988790f8e4684d1f653bfcac6b5cb5005754bee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_3838dd1e31cf66b70bee46e1905d39a1b466f2b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_9b95eebf1e77076374f7f3d8de3fda967eacc470/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_41af35ef583fa0640c48b36b336459406aa6e55c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d30c32b0b0c3c07346ecdb301b04a85139333e56">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dae5e75b0f1c3150bfcaa8788397454a79af2bb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_c0fc2d22a2ec44966d9e6e623012ec72dad1f898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_e25364e8eee876603f915a81ebd7e8401a14d629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_08642ff475501a5a5e39c7c273bc17f2f2bcada9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_dc3de0c3ec6d03aae5a6ace04398512535bd894d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_6cd37dbddd6dcb2f06e2cc49875722c067be29e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_a6e419c1e6c5572bba94bbd9315ccc4412680250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1ebe24d2a234bfc8772cf2c45a537ae8f042148a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0265f14b8cedb39523af6a2d18b6ea9a9bb5990b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_dc8de83c153c3995bd66c82d7444be82b3ba5eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_650cb9c0b6d619a1adf2e5267dddb469b7c8c8e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_50f48574bb3a7ad53b639877daf7da3266e91d3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_8e637591b172c8cac7121c69c76d3a5b9ef80ccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_b7091f240fa684caf2075d25ec900b408ac4479b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_6fd90331a4e5d415f617812921313cc9a2422ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_51448edd882c413829a127febea19d533df592d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_c3a81ff87e25113d80a3fe6287c14b8dadbfcff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8fe0b6129e2e072680b6670a581be19f3a97b5df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_6dd9e00dc9ee00afcc477cd5c8aaaa1bad682a1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_998c7c1bfce647fd5b469a3d7dbac91ca97ed5ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_2e71aa3c60987ed4c69c1d6209c3bb8425f41b78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_c828d535c132bf4e943d5f13ea18e0f7efa02311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_08a01dfca4e871081617fc858eac24fff1e6e615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_6c6ea3fd07562fa4e20ce6bed2c05f50ab311018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_85c5fd14fd4b1f0c681cfc5354814505d18c1cee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_fe2c5eb9aae3a36285c6010a47b3d05719882aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_784c1c0e78ac217ff1393f1d2f2a52def2910afd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a59e185ece042997a6779ea17ea1fe84a22ca52a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b8bc8571e077452ec91db0f99a01dbe3251e640f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_a728e48a82836f102d1ad56ead5160d3556783a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_4f65673df8657a17c776d6377e88daacdb744d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_ef416f45bf23391b8f86333c693fff4302f0726d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stan/souce_path/FabricTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/stan/souce_path/FabricTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_716e926f1ceff0724344edc5197972327b2f1609/classes.dex" />
+    </item>
+
+</items>
