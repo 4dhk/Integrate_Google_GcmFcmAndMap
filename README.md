@@ -4,6 +4,8 @@
 
 ![api](http://oanvj2lsv.bkt.clouddn.com/google/api/api1.png)
 
+---
+
 ## 2. GCM
  [真のGCM文档](https://developers.google.com/cloud-messaging/gcm?hl=zh-cn)
 通过 API管理器 进入的是FCM 的配置文档，FCM 兼容GCM 同时更加简洁，并提供更多的可用服务。
@@ -398,6 +400,9 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
+
+---
+
 ## 3 FCM
 添加FCM SDK到项目中。
 
