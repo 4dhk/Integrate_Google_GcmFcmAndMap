@@ -6,7 +6,7 @@
 
 ### 2. GCM
  [真のGCM文档](https://developers.google.com/cloud-messaging/gcm?hl=zh-cn)
-通过==API管理器==进入的是FCM 的配置文档，FCM 兼容GCM 同时更加简洁，并提供更多的可用服务。
+通过 API管理器 进入的是FCM 的配置文档，FCM 兼容GCM 同时更加简洁，并提供更多的可用服务。
 
 以下配置参照[GCM设置文档](https://developers.google.com/cloud-messaging/android/client?hl=zh-cn)和 [GoogleSamples](https://github.com/googlesamples/google-services/tree/master/android/gcm/app/src/main/java/gcm/play/android/samples/com/gcmquickstart)，找代码也是一个复杂的过程，索性一并贴出。
 
@@ -28,11 +28,11 @@
 #### 2.1.2 配置project
 对应文档（Add the configuration file to your project）
 
-1.添加依赖到 ==project-level== **build.gradle**: 
+1.添加依赖到 project-level **build.gradle**: 
 ```
 classpath 'com.google.gms:google-services:3.0.0'
 ```
-2.添加插件和依赖库到 ==app-level== **build.gradle**
+2.添加插件和依赖库到 app-level **build.gradle**
 
 ```
 apply plugin: 'com.google.gms.google-services'
