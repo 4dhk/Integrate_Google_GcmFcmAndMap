@@ -692,7 +692,7 @@ public class MainActivity extends AppCompatActivity {
 
 [启用API](https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID)
 
-![APIs](http://oanvj2lsv.bkt.clouddn.com/google/api/api0.png)
+![APIs](http://oanvj2lsv.bkt.clouddn.com/google/api/api2.png)
 注：来自 Google 地图 Android v1 应用的现有密钥通常称为 MapView，它们无法与 v2 API 配合使用。 Google Maps Android API 采用了全新的密钥管理系统。
 
 #### 4.2 向您的应用添加 API 密钥
