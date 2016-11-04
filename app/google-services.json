@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273211567923",
+    "firebase_url": "https://fabric-67d89.firebaseio.com",
+    "project_id": "fabric-67d89",
+    "storage_bucket": "fabric-67d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273211567923:android:bc0da123773d617e",
+        "android_client_info": {
+          "package_name": "com.stan.fabrictest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273211567923-7abd19llej6si3j551mgtar4vihms9ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stan.fabrictest",
+            "certificate_hash": "CE6A1FD04DBCE6C3961BC8B87F650D2B41507704"
+          }
+        },
+        {
+          "client_id": "273211567923-895t1gab4cchtsptkps468an8r0mbvlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTcHIXGqEQo_LMBxcMy22zBCoenWEBVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273211567923-895t1gab4cchtsptkps468an8r0mbvlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
