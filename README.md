@@ -1,5 +1,8 @@
-## 配置GCM 、FCM 、 Google-Map (全程科学上网)
-## 1. API
+## 配置GCM 、FCM 、 Google-Map (全程科学上网
+## 0. 常见问题：
+1.  `compileSdkVersion`为25可能会与GCM/FCM，出现兼容异常。[IncompatibleClassChangeError after updating to Android Build Tools 25.1.6 GCM / FCM](http://stackoverflow.com/questions/37312340/incompatibleclasschangeerror-after-updating-to-android-build-tools-25-1-6-gcm)，暴力解决方法，`compileSdkVersion`为24。
+2. 模拟器不能接受GCM推送消息。
+API 1. API
 [API管理器(配置入口)](https://console.developers.google.com/apis/library?project=hauyan-8b259)
 
 ![api](http://oanvj2lsv.bkt.clouddn.com/google/api/api1.png)
